@@ -1,0 +1,8 @@
+while true; do
+    toilet -f bigmono9 -F gay BlackPlus
+    echo "Reloading Bot(Close All Process And Reload BlackPlus)"
+  echo "Channel > @Black_Ch | Developer > [@MehdiHS]"
+    echo "_____________________________________________________"
+    kill -9 $(pgrep telegram-cli)
+    sleep 500
+done
